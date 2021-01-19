@@ -1,0 +1,3 @@
+﻿  MainApplication.cpp
+C:\Users\farou\source\repos\PointG\PointG\MainApplication.cpp(174,9): warning C4101: 'nbretiole': unreferenced local variable
+  PointG.vcxproj -> C:\Users\farou\source\repos\PointG\Debug\PointG.exe
